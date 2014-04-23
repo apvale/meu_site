@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/04/2014, 11:18:00
+    Author     : Ana Paula
+*/
+
+body{
+    margin-top: 50px;
+    font-family: 'Raleway' ,sans-serif;
+    background-color: #d4d4d4;
+}
+
+.principal{
+    height: 100%;
+    -moz-box-shadow: 3px 3px 10px #666666;
+   -webkit-box-shadow: 3px 3px 10px #666666;
+    box-shadow: 3px 3px 10px #666666;
+    background-color: white;
+    
+}
+
+header{
+    height: 100px;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+ }
+
+.menu{
+    float: left;
+    
+}
+
+.menu ul{
+    list-style: none;
+    
+}
+
+.menu ul li{
+    
+    float: left;
+    margin: 5px;
+}
+
+#title{
+    float: right;
+}
+
+#sites{
+    margin-top: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+#sites ul{
+    list-style: none;
+    clear: both;
+    height: 650px;
+    margin: 20px;
+}
+
+#sites ul li{
+    float: left;
+    /* width: 200px; */
+    margin: 20px;
+    -moz-box-shadow: 3px 3px 10px #666666;
+    -webkit-box-shadow: 3px 3px 10px #666666;
+    box-shadow: 3px 3px 10px #666666;
+}
+
+footer{
+    width: 100%;
+    background-color: #2f96b4;
+    display: table;
+   
+}
+
+hgroup{
+    float: left;
+    display: table;
+}
+
+.social{
+    
+}
+
+.social ul{
+    list-style: none;
+}
+
+.rede_social{
+    float: left;
+    width: 32px;
+    height: 32px;
+    margin: inherit;
+}
+
+#perfil_ana{
+    width: 100px;
+    border: 5px;
+    border-style: solid;
+    float: right;
+    margin-right: 20px;
+}
